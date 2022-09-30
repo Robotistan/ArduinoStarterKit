@@ -9,7 +9,7 @@
 Learn Electronic Projects based on Arduino! Starter Kit will allow you to learn electronic programming by doing enjoyable projects. With the applications in the Arduino Compatible book which comes with the kit, will help you to carry your basic electronics knowledge to an advanced level seamlesly.
 
 ## Project Examples
-Now you will be able to make electronic projects that will impress yourself and your friends! For example ; You can do projects such as “auto parking sensor”, “digital clock” etc. The kit allows you to learn “how to use various motors”, “how various sensors work” and principles of most electronic projects. 
+Now you will be able to make electronic projects that will impress yourself and your friends! For example ; You can do projects such as “Auto Parking Sensor”, “Digital Clock” etc. The kit allows you to learn “How to Use Various Motors”, “How Various Sensors Work” and principles of most electronic projects. 
 
 ## Package Contents
 
