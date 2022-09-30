@@ -1,7 +1,7 @@
 # Electronic Starter Kit - Suitable for Starting Maker Projects and Electronics - Compatible with Arduino - Starter Pack for Beginners
-<img src="https://user-images.githubusercontent.com/111511331/191202667-f24be024-e87b-4dde-99ef-3ee9a8b4f482.jpg" width="500" height="500">
 
 
+![191202667-f24be024-e87b-4dde-99ef-3ee9a8b4f482](https://user-images.githubusercontent.com/112697142/193271161-6f77a1d8-bab1-47e4-9e03-c6cd4eec1e48.jpg)
 
 
 
