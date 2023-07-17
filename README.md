@@ -1,9 +1,9 @@
 # Electronic Starter Kit - Suitable for Starting Maker Projects and Electronics - Compatible with Arduino - Starter Pack for Beginners
 
 
-![191202667-f24be024-e87b-4dde-99ef-3ee9a8b4f482](https://user-images.githubusercontent.com/112697142/193271161-6f77a1d8-bab1-47e4-9e03-c6cd4eec1e48.jpg)
-
-
+<p align="center">
+  <img src="https://github.com/Robotistan/ArduinoStarterKit/assets/112697142/ca0cc8a3-c60b-4cc9-a675-699f7ce2b51d" alt="animated" />
+</p>
 
 ## [Arduino Starter Kit](https://shop.robotistan.com/products/electronic-starter-kit-suitable-for-starting-maker-projects-and-electronics-compatible-with-arduino-starter-pack-for-beginners "Heading link")
 Learn Electronic Projects based on Arduino! Starter Kit will allow you to learn electronic programming by doing enjoyable projects. With the applications in the Arduino Compatible book which comes with the kit, will help you to carry your basic electronics knowledge to an advanced level seamlesly.
